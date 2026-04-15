@@ -1,10 +1,12 @@
 🏡 **Airbnb Data Analysis & Performance Dashboard**
  
 🌍 **About Airbnb**
+
 Airbnb is a global online marketplace that connects hosts offering accommodations with travelers seeking short-term stays. It provides various options such as entire homes, private rooms, and shared spaces across cities worldwide. It has transformed the hospitality industry by enabling flexible, affordable, and diverse lodging solutions.
 
 ---
 📊 **Project Overview**
+
 This project focuses on analyzing Airbnb listing data to uncover trends, pricing patterns, and customer preferences.
 The analysis is performed using data cleaning, exploratory data analysis (EDA), and interactive visualization through Power BI dashboards.
 
