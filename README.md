@@ -59,8 +59,10 @@ The analysis is performed using data cleaning, exploratory data analysis (EDA), 
 
 ---
 📷 **Dashboard Preview**
+
 🔹 Overview Dashboard
 ![Overview](dashboard-overview.png)
+
 🔹 City Analysis Dashboard
 ![City](city-analysis.png)
 
